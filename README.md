@@ -3,7 +3,6 @@
 I'm a Computer Science student interested in software development, AI, and building things that solve real problems. I enjoy exploring new technologies, working on projects, and learning something new along the way.
 
 ### 🌱 What I'm Working On
-- Working as an **AI Engineer Intern at Zensar Technologies**.
 - Exploring AI applications, intelligent agents, and software development.
 - Building my skills in full-stack development and problem-solving.
 
