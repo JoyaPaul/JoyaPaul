@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Joya Paul! 👋
 
-<!--
-**JoyaPaul/JoyaPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in software development, AI, and building things that solve real problems. I enjoy exploring new technologies, working on projects, and learning something new along the way.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Working On
+- Working as an **AI Engineer Intern at Zensar Technologies**.
+- Exploring AI applications, intelligent agents, and software development.
+- Building my skills in full-stack development and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- **Languages:** Python, Java, C++, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, MongoDB, SQL
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Exploring:** AI tools, LLMs, and agentic AI
+
+### 📫 Let's Connect
+- **GitHub:** You're already here! 😊
+- **Email:** joyapaul.maa@gmail.com
+
+---
+
+*Always learning, always building, one project at a time.* ✨
